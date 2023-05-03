@@ -9,3 +9,6 @@
 ```
 Diamante es uno de los 10 primeros aliens de Ben 10.
 ```
+- [x] alto alien
+- [x] muy peligroso
+- [ ] le gana a batman
